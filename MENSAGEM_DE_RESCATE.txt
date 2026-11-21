@@ -1,0 +1,3 @@
+Seus arquivos foram criptografados!
+Para recuperá-los, envie 1 Bitcoin para o endereço XYZ e entre em contato com o suporte.
+Após o pagamento, você receberá a chave de descriptografia.

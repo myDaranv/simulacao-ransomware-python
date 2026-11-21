@@ -1,0 +1,2 @@
+minha_senha_teste=1234
+linkedin minha_senha_teste 12346
